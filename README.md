@@ -9,8 +9,13 @@ IF you are using linux use can use following command to download dataset,
 If using windows then you have download manual from this repository
 
 https://github.com/tesseract-ocr/tessdata
+
 # Prerequisite Libraries to install
+
 ! pip3 install PIL
+
 ! pip3 install pytesseract
+
 ! pip3 install googletrans
+
 ! pip3 install Tkinter
